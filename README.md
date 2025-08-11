@@ -1,8 +1,40 @@
-<div>
-    <h2 style="color: #f7e1d7;">Hi there 👋! My name is Minh Trung from Viet Name with luv ❤️</h2>
-    <br style="height:1px; border:0; background:#ddd;">
+<div align="center">
+
+# 🌟 Welcome to Minh Trung's Profile 🌟
+
+<p><em>A student who passionate about machine learning and web development</em></p>
+
+<img src="https://img.shields.io/badge/Status-Available_for_collaboration-brightgreen" alt="Status" />
+<img src="https://img.shields.io/badge/Focus-Web_Development-blue" alt="Focus" />
+
 </div>
 
-<div style="align-items: center;">
-    <img src="https://www.svgrepo.com/show/452091/python.svg" alt="python">
+<hr>
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### 🎨 Frontend
+
+<img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&color=ff69b4">
+
+### 🧠 AI/ML
+
+<img src="https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&color=00CED1"> <img src="https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&color=00CED1">
+
+### 💬 Languages
+
+<img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&color=FFA500"> <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&color=FFA500">
+
 </div>
+
+## 🌐 Socials
+
+<div align="center">
+
+
+
+</div>
+
+<div align="center">
