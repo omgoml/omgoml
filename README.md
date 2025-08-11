@@ -1,4 +1,7 @@
-<h2 align="left">Hi 👋! My name is Trung and I'm a student, from Viet Nam</h2>
+<div>
+    <h2 style="color: #f7e1d7;">Hi there 👋! My name is Minh Trung from Viet Name with luv ❤️</h2>
+    <br style="height:1px; border:0; background:#ddd;">
+</div>
 
 ###
 
